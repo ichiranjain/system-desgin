@@ -2,7 +2,8 @@
 ---
 # Table of Contents
 ---
-1. [SaaS in 5 mins](#SaaS-in-5)
+1. [SaaS](#saas-in-5)
+2. [FaaS](#faas-in-10)
 2. [References](#references)
 
 ### [SaaS in 5](https://www.youtube.com/watch?v=20QUNgFIrK0)
@@ -32,6 +33,26 @@ scalability on demand (horizontal or vertical)
 access sass application anywhere - mostly data should reside within country laws
 New version - upgrades are smooth. Everyone is mostly on same version. so no patching
 ``` 
+
+---
+### [FaaS in 10](https://www.youtube.com/watch?v=EOIja7yFScs)
+
+#### Q. Is Function as a Service same as Serverless?
+```
+FaaS is a key subset of Serverless or Backend as a Service. 
+```
+
+- Abstraction increasing L to R:
+```
+IaaS < PaaS < FaaS < SaaS
+```
+- Benefits:
+* Pay for what you use only.
+* Focus on code.
+* Auto Scaling
+* HA (Highly Available)
+
+
 
 
 
