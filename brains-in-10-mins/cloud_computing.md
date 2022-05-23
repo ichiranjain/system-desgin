@@ -1,6 +1,11 @@
-## Cloud Computing Topics
+# Cloud Computing Topics
+---
+# Table of Contents
+---
+1. [SaaS in 5 mins](#SaaS-in-5)
+2. [References](#references)
 
-### 1. [SaaS in 5](https://www.youtube.com/watch?v=20QUNgFIrK0)
+### [SaaS in 5](https://www.youtube.com/watch?v=20QUNgFIrK0)
 
 #### Talking points:
 
