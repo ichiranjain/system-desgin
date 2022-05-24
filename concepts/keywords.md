@@ -3,8 +3,9 @@
 Table of Contents
 ---
 1. [Stateful vs Stateless](#stateful-vs-stateless)
+2. [Load Balancer vs Reverse Proxy](#load-balancer-vs-reverse-proxy)
+3. 
 
----
 ### Stateful vs Stateless
 ##### Stateful
 ```
@@ -56,3 +57,5 @@ When choosing service,
 Always ask question regarding how we want to maintain the state?
 
 ```
+
+
